@@ -77,7 +77,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 ## Subheader 3:  Meaningful object, song, food 
 
  {% include essay/figure.html
-  image="images/apodaca-tomas-mom.HEIC"
+  image="images/apodaca-tomas-mom.heic"
   alt="Placeholder for a photograph of an important object or place"
   caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
