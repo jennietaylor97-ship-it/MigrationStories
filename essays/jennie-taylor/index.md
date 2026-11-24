@@ -21,7 +21,7 @@ summary: "One sentence that tells readers what your family's migration story is 
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
-lead-image: images/placeholder.svg
+lead-image: images/mestizo-art.HEIC
 lead-image-alt: "Short description of the image for screen readers"
 lead-image-caption: "What the image shows, who is in it, and the source. Example: Maria and Jose Lopez outside their first apartment, Chicago, 1968. Courtesy of the Lopez family."
 
@@ -77,7 +77,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 ## Subheader 3:  Meaningful object, song, food 
 
  {% include essay/figure.html
-  image="/essays/template/images/placeholder.svg"
+  image="images/apaodaca-tomas-mom.HEIC"
   alt="Placeholder for a photograph of an important object or place"
   caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
