@@ -65,7 +65,7 @@ The first was in connection to Onate’s expedition and the second was with Dieg
 {% endcomment %}
 
 {% include essay/audio.html
-  file="audio/sample-clip.wav"
+  file="audio/migration-story.mp3"
   caption="10-25 words: who is speaking, what they describe, and a citation. Interview by Your Name, City, Month Day, Year."
 %}
 
